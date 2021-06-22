@@ -1,1 +1,1 @@
-# Minecraft-bot
+Minecraft sunucunuz için bot
